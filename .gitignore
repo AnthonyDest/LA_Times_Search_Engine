@@ -1,0 +1,9 @@
+notes*
+venv/*
+Output*/
+latimes.gz
+__pycache__/
+*.py[cod]
+qrels/
+test_commands.txt
+.vscode/
